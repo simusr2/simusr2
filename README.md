@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!-- [![simusr2's github stats](https://github-readme-stats.vercel.app/api?username=simusr2&count_private=true)](https://github.com/simusr2/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simusr2)](https://github.com/simusr2/github-readme-stats)-->
 
-![simusr2's Stats](https://github-readme-stats.vercel.app/api?username=simusr2&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![simusr2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=simusr2&theme=dark&hide_border=true)
 ![simusr2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simusr2&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![simusr2's Stats](https://github-readme-stats.vercel.app/api?username=simusr2&theme=dark&show_icons=true&hide_border=true&count_private=true)
